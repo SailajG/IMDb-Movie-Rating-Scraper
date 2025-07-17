@@ -1,0 +1,251 @@
+Movie,Genre,Rating,Duration
+The Shawshank Redemption,Drama,9.3,2H22M
+The Godfather,"Crime, Drama",9.2,2H55M
+The Dark Knight,"Action, Crime, Drama",9.0,2H32M
+The Godfather Part II,"Crime, Drama",9.0,3H22M
+12 Angry Men,"Crime, Drama",9.0,1H36M
+The Lord of the Rings: The Return of the King,"Adventure, Drama, Fantasy",9.0,3H21M
+Schindler's List,"Biography, Drama, History",9.0,3H15M
+Pulp Fiction,"Crime, Drama",8.8,2H34M
+The Lord of the Rings: The Fellowship of the Ring,"Adventure, Drama, Fantasy",8.9,2H58M
+"Il buono, il brutto, il cattivo","Adventure, Drama, Western",8.8,2H58M
+Forrest Gump,"Drama, Romance",8.8,2H22M
+The Lord of the Rings: The Two Towers,"Adventure, Drama, Fantasy",8.8,2H59M
+Fight Club,"Crime, Drama, Thriller",8.8,2H19M
+Inception,"Action, Adventure, Sci-Fi",8.8,2H28M
+Star Wars: Episode V - The Empire Strikes Back,"Action, Adventure, Fantasy",8.7,2H4M
+The Matrix,"Action, Sci-Fi",8.7,2H16M
+GoodFellas,"Biography, Crime, Drama",8.7,2H25M
+Interstellar,"Adventure, Drama, Sci-Fi",8.7,2H49M
+One Flew Over the Cuckoo's Nest,Drama,8.7,2H13M
+Se7en,"Crime, Drama, Mystery",8.6,2H7M
+It's a Wonderful Life,"Drama, Family, Fantasy",8.6,2H10M
+The Silence of the Lambs,"Crime, Drama, Horror",8.6,1H58M
+Shichinin no samurai,"Action, Drama",8.6,3H27M
+Saving Private Ryan,"Drama, War",8.6,2H49M
+The Green Mile,"Crime, Drama, Fantasy",8.6,3H9M
+Cidade de Deus,"Crime, Drama",8.6,2H10M
+La vita è bella,"Comedy, Drama, Romance",8.6,1H56M
+Terminator 2: Judgment Day,"Action, Adventure, Sci-Fi",8.6,2H17M
+Star Wars,"Action, Adventure, Fantasy",8.6,2H1M
+Back to the Future,"Adventure, Comedy, Sci-Fi",8.5,1H56M
+Sen to Chihiro no kamikakushi,"Animation, Adventure, Family",8.6,2H4M
+The Pianist,"Biography, Drama, Music",8.5,2H30M
+Gladiator,"Action, Adventure, Drama",8.5,2H35M
+Gisaengchung,"Drama, Thriller",8.5,2H12M
+Psycho,"Drama, Horror, Mystery",8.5,1H49M
+The Lion King,"Animation, Adventure, Drama",8.5,1H28M
+Hotaru no haka,"Animation, Drama, War",8.5,1H28M
+The Departed,"Crime, Drama, Thriller",8.5,2H31M
+Whiplash,"Drama, Music",8.5,1H46M
+Seppuku,"Drama, Mystery",8.6,2H13M
+The Prestige,"Drama, Mystery, Sci-Fi",8.5,2H10M
+American History X,"Crime, Drama",8.5,1H59M
+Léon,"Action, Crime, Drama",8.5,1H50M
+Spider-Man: Across the Spider-Verse,"Animation, Action, Adventure",8.5,2H20M
+Casablanca,"Drama, Romance, War",8.5,1H42M
+The Usual Suspects,"Crime, Drama, Mystery",8.5,1H46M
+Nuovo Cinema Paradiso,"Drama, Romance",8.5,2H54M
+Intouchables,"Comedy, Drama",8.5,1H52M
+Alien,"Horror, Sci-Fi",8.5,1H57M
+Modern Times,"Comedy, Drama, Romance",8.5,1H27M
+Rear Window,"Drama, Mystery, Thriller",8.5,1H52M
+C'era una volta il West,"Drama, Western",8.5,2H46M
+Django Unchained,"Drama, Western",8.5,2H45M
+City Lights,"Comedy, Drama, Romance",8.5,1H27M
+Apocalypse Now,"Drama, Mystery, War",8.4,2H27M
+WALL·E,"Animation, Adventure, Family",8.4,1H38M
+Memento,"Drama, Mystery, Thriller",8.4,1H53M
+Dune: Part Two,"Action, Adventure, Drama",8.5,2H46M
+Raiders of the Lost Ark,"Action, Adventure",8.4,1H55M
+Avengers: Infinity War,"Action, Adventure, Sci-Fi",8.4,2H29M
+Das Leben der Anderen,"Drama, Mystery, Thriller",8.4,2H17M
+Sunset Boulevard,"Drama, Film-Noir",8.4,1H50M
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure",8.4,1H57M
+Witness for the Prosecution,"Crime, Drama, Mystery",8.4,1H56M
+Paths of Glory,"Drama, War",8.4,1H28M
+The Shining,"Drama, Horror",8.4,2H26M
+The Great Dictator,"Comedy, Drama, War",8.4,2H5M
+12th Fail,"Biography, Drama",8.7,2H27M
+Inglourious Basterds,"Adventure, Drama, War",8.4,2H33M
+Aliens,"Action, Adventure, Horror",8.4,2H17M
+The Dark Knight Rises,"Action, Crime, Drama",8.4,2H44M
+Coco,"Animation, Adventure, Drama",8.4,1H45M
+Amadeus,"Biography, Drama, Music",8.4,2H40M
+Avengers: Endgame,"Action, Adventure, Sci-Fi",8.4,3H1M
+Toy Story,"Animation, Adventure, Comedy",8.3,1H21M
+Good Will Hunting,"Drama, Romance",8.3,2H6M
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Comedy, War",8.3,1H35M
+Oldeuboi,"Action, Drama, Mystery",8.3,2H
+Das Boot,"Drama, War",8.4,2H29M
+Braveheart,"Biography, Drama, War",8.3,2H58M
+Tengoku to jigoku,"Crime, Drama, Mystery",8.4,2H23M
+American Beauty,Drama,8.3,2H2M
+Mononoke-hime,"Animation, Adventure, Fantasy",8.3,2H13M
+Kimi no na wa.,"Animation, Drama, Fantasy",8.4,1H46M
+3 Idiots,"Comedy, Drama",8.4,2H50M
+Joker,"Crime, Drama, Thriller",8.3,2H2M
+Capharnaüm,Drama,8.4,2H6M
+Once Upon a Time in America,"Crime, Drama",8.3,3H49M
+Singin' in the Rain,"Comedy, Musical, Romance",8.3,1H43M
+Idi i smotri,"Drama, Thriller, War",8.3,2H22M
+Requiem for a Dream,Drama,8.3,1H42M
+Star Wars: Episode VI - Return of the Jedi,"Action, Adventure, Fantasy",8.3,2H11M
+Toy Story 3,"Animation, Adventure, Comedy",8.3,1H43M
+Jagten,Drama,8.3,1H55M
+Ikiru,Drama,8.3,2H23M
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi",8.3,1H48M
+Incendies,"Drama, Mystery, War",8.3,2H11M
+2001: A Space Odyssey,"Adventure, Sci-Fi",8.3,2H29M
+The Apartment,"Comedy, Drama, Romance",8.3,2H5M
+Lawrence of Arabia,"Adventure, Biography, Drama",8.3,3H47M
+Reservoir Dogs,"Crime, Thriller",8.3,1H39M
+Scarface,"Crime, Drama",8.3,2H50M
+Heat,"Action, Crime, Drama",8.3,2H50M
+Double Indemnity,"Crime, Drama, Film-Noir",8.3,1H47M
+North by Northwest,"Adventure, Drama, Mystery",8.3,2H16M
+Up,"Animation, Adventure, Comedy",8.3,1H36M
+Citizen Kane,"Drama, Mystery",8.3,1H59M
+M - Eine Stadt sucht einen Mörder,"Crime, Mystery, Thriller",8.3,1H39M
+Full Metal Jacket,"Drama, War",8.2,1H56M
+Vertigo,"Mystery, Romance, Thriller",8.2,2H8M
+Le fabuleux destin d'Amélie Poulain,"Comedy, Romance",8.3,2H2M
+Taare Zameen Par,"Drama, Family",8.3,2H42M
+Hababam Sinifi: Sinifta Kaldi,Comedy,8.7,1H35M
+Jodaeiye Nader az Simin,Drama,8.3,2H3M
+To Kill a Mockingbird,"Crime, Drama",8.3,2H9M
+Die Hard,"Action, Thriller",8.2,2H12M
+Indiana Jones and the Last Crusade,"Action, Adventure",8.2,2H7M
+A Clockwork Orange,"Crime, Sci-Fi",8.2,2H16M
+The Sting,"Comedy, Crime, Drama",8.2,2H9M
+Metropolis,"Drama, Sci-Fi",8.3,2H33M
+Oppenheimer,"Biography, Drama, History",8.3,3H
+Snatch,"Comedy, Crime",8.2,1H42M
+1917,"Action, Drama, War",8.2,1H59M
+L.A. Confidential,"Crime, Drama, Mystery",8.2,2H18M
+Ladri di biciclette,Drama,8.2,1H29M
+Der Untergang,"Biography, Drama, History",8.2,2H36M
+Dangal,"Action, Biography, Drama",8.3,2H41M
+The Wolf of Wall Street,"Biography, Comedy, Crime",8.2,3H
+Hamilton,"Biography, Drama, History",8.3,2H40M
+Green Book,"Biography, Comedy, Drama",8.2,2H10M
+Taxi Driver,"Crime, Drama",8.2,1H54M
+Batman Begins,"Action, Crime, Drama",8.2,2H20M
+The Truman Show,"Comedy, Drama",8.2,1H43M
+Per qualche dollaro in più,"Drama, Western",8.2,2H12M
+Judgment at Nuremberg,"Drama, War",8.3,2H59M
+Some Like It Hot,"Comedy, Music, Romance",8.2,2H1M
+Shutter Island,"Drama, Mystery, Thriller",8.2,2H18M
+The Kid,"Comedy, Drama, Family",8.2,1H8M
+The Father,"Drama, Mystery",8.2,1H37M
+Jurassic Park,"Action, Adventure, Sci-Fi",8.2,2H7M
+All About Eve,Drama,8.2,2H18M
+There Will Be Blood,Drama,8.2,2H38M
+The Sixth Sense,"Drama, Mystery, Thriller",8.2,1H47M
+Ran,"Action, Drama, War",8.2,2H40M
+Casino,"Crime, Drama",8.2,2H58M
+Top Gun: Maverick,"Action, Drama",8.2,2H10M
+No Country for Old Men,"Crime, Drama, Thriller",8.2,2H2M
+The Thing,"Horror, Mystery, Sci-Fi",8.2,1H49M
+Unforgiven,"Drama, Western",8.2,2H10M
+El laberinto del fauno,"Drama, Fantasy, War",8.2,1H58M
+Kill Bill: Vol. 1,"Action, Crime, Thriller",8.2,1H51M
+A Beautiful Mind,"Biography, Drama, Mystery",8.2,2H15M
+Prisoners,"Crime, Drama, Mystery",8.2,2H33M
+The Treasure of the Sierra Madre,"Adventure, Drama, Western",8.2,2H6M
+Yôjinbô,"Action, Drama, Thriller",8.2,1H50M
+Finding Nemo,"Animation, Adventure, Comedy",8.2,1H40M
+Hauru no ugoku shiro,"Animation, Adventure, Family",8.2,1H59M
+The Great Escape,"Adventure, Drama, Thriller",8.2,2H52M
+Monty Python and the Holy Grail,"Adventure, Comedy, Fantasy",8.2,1H31M
+The Elephant Man,"Biography, Drama",8.2,2H4M
+Dial M for Murder,"Crime, Drama, Mystery",8.2,1H45M
+Klaus,"Animation, Adventure, Comedy",8.2,1H36M
+Gone with the Wind,"Drama, Romance, War",8.2,3H58M
+Chinatown,"Drama, Mystery, Thriller",8.1,2H10M
+El secreto de sus ojos,"Drama, Mystery, Romance",8.2,2H9M
+"Lock, Stock and Two Smoking Barrels","Comedy, Crime",8.1,1H47M
+Rashômon,"Crime, Drama, Mystery",8.2,1H28M
+V for Vendetta,"Action, Drama, Sci-Fi",8.1,2H12M
+Inside Out,"Animation, Adventure, Comedy",8.1,1H35M
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama",8.1,1H55M
+Catch Me If You Can,"Biography, Crime, Drama",8.1,2H21M
+Trainspotting,"Crime, Drama",8.1,1H33M
+The Bridge on the River Kwai,"Adventure, Drama, War",8.1,2H41M
+Raging Bull,"Biography, Drama, Sport",8.1,2H9M
+The Wild Robot,"Animation, Adventure, Family",8.2,1H42M
+Fargo,"Crime, Drama, Thriller",8.1,1H38M
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Family, Fantasy",8.1,2H10M
+Warrior,"Action, Drama, Sport",8.1,2H20M
+Gran Torino,Drama,8.1,1H56M
+Million Dollar Baby,"Drama, Sport",8.1,2H12M
+Ben-Hur,"Adventure, Drama",8.1,3H32M
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi",8.1,2H
+Tonari no Totoro,"Animation, Comedy, Family",8.1,1H26M
+Barry Lyndon,"Adventure, Drama, War",8.1,3H5M
+Dead Poets Society,"Comedy, Drama",8.1,2H8M
+Bacheha-ye aseman,"Drama, Family, Sport",8.2,1H29M
+Hacksaw Ridge,"Biography, Drama, History",8.1,2H19M
+Spider-Man: No Way Home,"Action, Adventure, Fantasy",8.2,2H28M
+The Grand Budapest Hotel,"Comedy, Drama",8.1,1H39M
+12 Years a Slave,"Biography, Drama, History",8.1,2H14M
+Before Sunrise,"Comedy, Drama, Romance",8.1,1H41M
+Blade Runner,"Action, Drama, Sci-Fi",8.1,1H57M
+Salinui chueok,"Crime, Drama, Mystery",8.1,2H12M
+Gone Girl,"Drama, Mystery, Thriller",8.1,2H29M
+Ratatouille,"Animation, Adventure, Comedy",8.1,1H51M
+How to Train Your Dragon,"Animation, Action, Adventure",8.1,1H38M
+"Monsters, Inc.","Animation, Adventure, Comedy",8.1,1H32M
+In the Name of the Father,"Biography, Crime, Drama",8.1,2H13M
+Jaws,"Adventure, Horror, Thriller",8.1,2H4M
+Relatos salvajes,"Comedy, Drama, Thriller",8.1,2H2M
+The Gold Rush,"Adventure, Comedy, Drama",8.1,1H35M
+Sherlock Jr.,"Action, Comedy, Romance",8.2,45M
+Ford v Ferrari,"Action, Biography, Drama",8.1,2H32M
+Mary and Max.,"Animation, Comedy, Drama",8.1,1H32M
+The Deer Hunter,"Drama, War",8.1,3H3M
+Le salaire de la peur,"Adventure, Drama, Thriller",8.1,2H36M
+The General,"Action, Adventure, Comedy",8.1,1H18M
+Mr. Smith Goes to Washington,"Comedy, Drama",8.1,2H9M
+On the Waterfront,"Crime, Drama, Thriller",8.1,1H48M
+Logan,"Action, Drama, Sci-Fi",8.1,2H17M
+Smultronstället,"Drama, Romance",8.1,1H32M
+Rocky,"Drama, Sport",8.1,2H
+The Third Man,"Drama, Film-Noir, Mystery",8.1,1H44M
+Tôkyô monogatari,Drama,8.1,2H17M
+Spotlight,"Biography, Crime, Drama",8.1,2H9M
+The Terminator,"Action, Adventure, Sci-Fi",8.1,1H47M
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy",8.1,2H23M
+The Big Lebowski,"Comedy, Crime",8.1,1H57M
+Maharaja,"Action, Crime, Drama",8.4,2H21M
+Det sjunde inseglet,"Drama, Fantasy",8.1,1H36M
+La haine,"Crime, Drama",8.1,1H38M
+Room,"Drama, Thriller",8.1,1H58M
+Jai Bhim,"Crime, Drama",8.6,2H44M
+Hotel Rwanda,"Biography, Drama, History",8.1,2H1M
+Platoon,"Drama, War",8.1,2H
+The Best Years of Our Lives,"Drama, Romance, War",8.1,2H50M
+Before Sunset,"Drama, Romance",8.1,1H20M
+The Sound of Music,"Biography, Drama, Family",8.1,2H52M
+The Exorcist,Horror,8.1,2H2M
+The Incredibles,"Animation, Action, Adventure",8.0,1H55M
+The Wizard of Oz,"Adventure, Family, Fantasy",8.1,1H42M
+Hachi: A Dog's Tale,"Biography, Drama, Family",8.1,1H33M
+Rush,"Biography, Drama, Sport",8.1,2H3M
+La passion de Jeanne d'Arc,"Biography, Drama, History",8.1,1H54M
+Stand by Me,"Adventure, Comedy, Drama",8.1,1H29M
+Babam ve Oglum,"Drama, Family",8.2,1H52M
+Koe no katachi,"Animation, Drama",8.1,2H10M
+The Iron Giant,"Animation, Action, Adventure",8.1,1H26M
+Network,Drama,8.1,2H1M
+Ah-ga-ssi,"Drama, Romance, Thriller",8.1,2H25M
+La battaglia di Algeri,"Drama, War",8.1,2H1M
+The Grapes of Wrath,Drama,8.1,2H9M
+To Be or Not to Be,"Comedy, Romance, War",8.1,1H39M
+Into the Wild,"Adventure, Biography, Drama",8.0,2H28M
+Groundhog Day,"Comedy, Drama, Fantasy",8.0,1H41M
+The Help,Drama,8.1,2H26M
+Gangs of Wasseypur,"Action, Comedy, Crime",8.2,5H21M
+Drishyam,"Crime, Drama, Mystery",8.2,2H43M
+Andhadhun,"Crime, Mystery, Thriller",8.2,2H19M
+Amores perros,"Drama, Thriller",8.0,2H34M
